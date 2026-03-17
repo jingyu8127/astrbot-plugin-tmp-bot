@@ -46,7 +46,7 @@ https://truckersmp.com/developers/api
 ## 版本v1.7.8
 - 新增 新添成员功能
 - 新增 删除成员功能
-以上添加的新功能需要在配置里面写token 请去QQ找 [`备长炭` QQ号:79887143](https://qm.qq.com/q/zxpOxP7gli)
+- 以上添加的新功能需要在配置里面写token 请去QQ找 [`备长炭` QQ号:79887143](https://qm.qq.com/q/zxpOxP7gli)
 
 ## 版本v1.7.7
 - 新增 车队平台专属菜单(开关和白名单)
@@ -59,7 +59,7 @@ https://truckersmp.com/developers/api
 - 添加了"成员查询"功能
 - 添加了"修改密码"功能(仅私信)
 - 添加了"活动查询"功能
-以上添加的新功能需要在配置里面写token 请去QQ找 [`备长炭` QQ号:79887143](https://qm.qq.com/q/zxpOxP7gli)
+- 以上添加的新功能需要在配置里面写token 请去QQ找 [`备长炭` QQ号:79887143](https://qm.qq.com/q/zxpOxP7gli)
 
 ## 版本v1.7.5
 - 修改车队角色api为truckersmp官方api
